@@ -14,3 +14,6 @@ The instructions of each homework are as follows.
     - Implement a basic algorithm for building a random forest.
   - Evaluation: Implement evaluation metrics: accuracy for classification, mean squared error (MSE) for regression.
 - hw4: Implement Principal Component Analysis, Autoencoder, and Denoising Autoencoder
+
+### FAI Final Project
+The final project requires students to implement Texas Hold’em AI to compete in the casino of the class, formed by baseline AIs and other AI players implemented by classmates. You can check the details of the project [here](https://docs.google.com/presentation/d/17Hx5R2BoehE-IvOlOrsKZnYmaiEYz1-_-MAetO-KGdY/edit#slide=id.g22a8e28482d_0_1204).
